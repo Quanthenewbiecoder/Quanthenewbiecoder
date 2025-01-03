@@ -9,19 +9,30 @@ I’m passionate about crafting secure, scalable web applications and diving int
 
 ### 🛠️ Skills & Tech Stack
 
-#### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+#### **💻 Programming Languages**  
+- **Python**: Proficient in scripting, data manipulation, and back-end development.  
+- **Java**: Experienced in object-oriented programming and data structures.  
+- **JavaScript**: Skilled in building interactive web interfaces.  
+- **HTML5 & CSS3**: Adept at creating responsive and user-friendly designs.  
+- **SQL**: Strong command of database design and query optimization.
 
-#### **Frameworks & Tools**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-F05032?style=for-the-badge&logo=sqlalchemy&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+#### **🚀 Frameworks & Libraries**  
+- **Flask**: Expertise in building scalable web applications with secure authentication.  
+- **SQLAlchemy**: Experienced in database ORM for seamless data modeling.  
+
+#### **🔧 Tools & Platforms**  
+- **Git**: Version control for collaborative and efficient code management.  
+- **VS Code**: Preferred IDE for fast and efficient development.  
+
+#### **🌟 Key Strengths**  
+- Strong foundation in **Data Structures & Algorithms** for efficient problem-solving.  
+- Skilled in building **secure and scalable** applications with real-world impact.  
+- Hands-on experience with **SCRUM methodology** in team projects.
+
+---
+
+💡 **What sets me apart?**  
+I combine technical expertise with strong teamwork and critical thinking skills, ensuring projects are delivered on time and with exceptional quality. My ability to bridge the gap between development and real-world business needs makes me a valuable asset to any team.
 
 ---
 
