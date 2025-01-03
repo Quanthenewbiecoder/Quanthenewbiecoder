@@ -35,5 +35,5 @@ Full-stack developer focused on building scalable web applications. CS50 certifi
 [Email](mailto:quan.duong4work@gmail.com)
 
 ---
-🏗️ Building scalable solutions | 🧩 Problem-solving enthusiast
-⚡ Certified Barista | 🥋 Taekwondo Enthusiast
+- 🏗️ Building scalable solutions | 🧩 Problem-solving enthusiast
+- ⚡ Certified Barista | 🥋 Taekwondo Enthusiast
