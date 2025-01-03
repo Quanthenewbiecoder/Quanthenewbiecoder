@@ -22,18 +22,13 @@ Full-stack developer focused on building scalable web applications. CS50 certifi
 - **Core**: Python, Java, JavaScript, HTML/CSS
 - **Backend**: Flask, SQLAlchemy, MySQL
 - **Tools**: Git, VS Code, Linux
-- **Focus**: Software Architecture, APIs, Data Structures
+- **Focus**: Software Architecture, Problem Solving, Data Structures
 
 ### 🎯 Recent Achievements
 - CS50 Certification (2024)
 - Aston University 30% Scholarship
 - Team Lead - E-commerce Project
 - Student Representative (2023-2024)
-
-### 📚 Development Focus
-- System Design Patterns
-- API Development
-- Full-Stack Architecture
 
 ### 📫 Connect
 [LinkedIn](https://linkedin.com/in/duong-anh-quan-bb4b3b1a4) | 
