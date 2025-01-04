@@ -28,8 +28,7 @@ Passionate full-stack developer with a focus on building scalable web applicatio
 - **Specialization**: Software Architecture, Problem Solving, Data Structures & Algorithms  
 
 ### 🎯 Recent Achievements
-- **CS50 Certification (2024)([View Certificate](https://courses.edx.org/certificates/faf76bfe74a349ab994c2689da52658d)).
-**  
+- **CS50 Certification (2024)([View Certificate](https://courses.edx.org/certificates/faf76bfe74a349ab994c2689da52658d)).**
 - **Aston University 30% Scholarship Recipient**  
 - **Team Lead for E-commerce Development Project**  
 - **Student Representative (2023-2024)** 
