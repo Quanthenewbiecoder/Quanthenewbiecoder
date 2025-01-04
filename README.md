@@ -3,7 +3,7 @@
 🔍 **Seeking Software Engineering Placement 2024-25**  
 🌍 **Birmingham, UK**  
 
-Full-stack developer focused on building scalable web applications. CS50 certified.
+Passionate full-stack developer with a focus on building scalable web applications. Certified by CS50, I thrive in problem-solving and crafting efficient software solutions.  
 
 ### 🚀 Key Projects
 #### **[Personal Finance Manager](https://github.com/Quanthenewbiecoder/Personal-finance-manager)**
@@ -19,16 +19,17 @@ Full-stack developer focused on building scalable web applications. CS50 certifi
 - Achieved a 100% on-time delivery rate for all sprints 
 
 ### 💻 Technical Skills
-- **Core**: Python, Java, JavaScript, HTML/CSS
-- **Backend**: Flask, SQLAlchemy, MySQL
-- **Tools**: Git, VS Code, Linux
-- **Focus**: Software Architecture, Problem Solving, Data Structures
+- **Programming Languages**: Python, Java, JavaScript, HTML/CSS  
+- **Backend**: Flask, SQLAlchemy, MySQL  
+- **Frontend**: Bootstrap, Responsive Design Principles  
+- **Tools**: Git, VS Code, Linux, Postman  
+- **Specialization**: Software Architecture, Problem Solving, Data Structures & Algorithms  
 
 ### 🎯 Recent Achievements
-- CS50 Certification (2024)
-- Aston University 30% Scholarship
-- Team Lead - E-commerce Project
-- Student Representative (2023-2024)
+- **CS50 Certification (2024)**  
+- **Aston University 30% Scholarship Recipient**  
+- **Team Lead for E-commerce Development Project**  
+- **Student Representative (2023-2024)** 
 
 ### 📫 Connect
 [LinkedIn](https://linkedin.com/in/duong-anh-quan-bb4b3b1a4) | 
