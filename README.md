@@ -7,16 +7,16 @@ Full-stack developer focused on building scalable web applications. CS50 certifi
 
 ### 🚀 Key Projects
 #### **[Personal Finance Manager](https://github.com/Quanthenewbiecoder/Personal-finance-manager)**
-- Full-stack app with **Flask**, **SQLite**, **JavaScript**
-- RESTful API design
-- Real-time data processing
-- ORM with SQLAlchemy
+- Developed a full-stack app using **Flask**, **SQLite**, and **JavaScript**
+- Designed RESTful APIs for robust data interactions
+- Implemented real-time data updates and ORM with **SQLAlchemy**
+- Enhanced user experience with a responsive design
 
 #### **E-Commerce Platform (Academic Team Project)**
-- **Led 9-member SCRUM team**
-- Microservices architecture with **Flask**, **MySQL**
-- API integration
-- 100% on-time delivery rate
+- **Team Lead for a 9-member SCRUM team**  
+- Architected microservices with **Flask** and **MySQL**  
+- Integrated external APIs for streamlined transactions  
+- Achieved a 100% on-time delivery rate for all sprints 
 
 ### 💻 Technical Skills
 - **Core**: Python, Java, JavaScript, HTML/CSS
