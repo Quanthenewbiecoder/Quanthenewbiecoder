@@ -22,7 +22,7 @@ A **Flask-based financial dashboard** enabling real-time **expense tracking** an
 
 ### 🔹 Jewellery E-Commerce Platform (Academic Team Project)  
 Developed a **full-stack Flask-MySQL e-commerce system** with multilingual support.  
-🔹 **Tech Stack:** Flask, MySQL, Flask-Babel, HTML, CSS, JavaScript  
+🔹 **Tech Stack:** Flask, MongoDB, Flask-Babel, HTML, CSS, JavaScript  
 🔹 Led a **9-member Agile team** to improve database performance by **30%**  
 🔹 Integrated **third-party payment APIs** for seamless transactions  
 
@@ -46,19 +46,28 @@ Developed a **full-stack Flask-MySQL e-commerce system** with multilingual suppo
 
 ## 🛠 Technical Skills  
 
-**💻 Programming Languages:**  
+### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
 ![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=mysql)  
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)  
+![C++](https://img.shields.io/badge/C++-orange?style=flat&logo=cplusplus)  
 
-**🛠 Backend & Databases:**  
-🔹 **Flask, SQLAlchemy, REST APIs, Flask-Migrate, Alembic**  
-🔹 **MySQL, SQLite, PostgreSQL (Basic)**  
+### 🔹 Backend & Web Development  
+- **Flask, SQLAlchemy, Flask-Mail, Flask-Babel**  
+- **REST APIs, CI/CD Pipelines**  
+- **Object-Oriented Programming (OOP), Web Security, Agile (SCRUM)**  
 
-**💡 Other Tools & Technologies:**  
-🔹 **Git, GitHub, Docker, CI/CD**  
-🔹 **HTML, CSS, Bootstrap, Responsive Design**  
+### 🔹 Databases  
+- **MySQL, SQLite, MongoDB, MongoDB Atlas**  
+- **Database Optimization, Query Performance Tuning**  
+
+### 🛠 Tools & Platforms  
+- **Git, GitHub, VS Code, Eclipse, Linux**  
+
+### 💡 Other Skills  
+- **Team Collaboration, Problem-Solving, Full-Stack Development**  
 
 ---
 
