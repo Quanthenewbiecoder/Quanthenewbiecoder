@@ -47,12 +47,7 @@ Developed a **full-stack Flask-MySQL e-commerce system** with multilingual suppo
 ## 🛠 Technical Skills  
 
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
-![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=mysql)  
-![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)  
-![C++](https://img.shields.io/badge/C++-orange?style=flat&logo=cplusplus)  
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  ![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=mysql)  ![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)  ![C++](https://img.shields.io/badge/C++-orange?style=flat&logo=cplusplus)  
 
 ### 🔹 Backend & Web Development  
 - **Flask, SQLAlchemy, Flask-Mail, Flask-Babel**  
