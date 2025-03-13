@@ -80,6 +80,8 @@ Built a **smart city simulation system** using IoT concepts and **Python-based a
 ### 📊 Top Languages:
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact)  
+
+
 ---
 
 ## 🎯 Certifications & Achievements  
