@@ -55,7 +55,7 @@ Developed a **full-stack Flask-MySQL e-commerce system** with multilingual suppo
 - **Object-Oriented Programming (OOP), Web Security, Agile (SCRUM)**  
 
 ### 🔹 Databases  
-- **MySQL, SQLite, MongoDB, MongoDB Atlas**  
+- **MySQL, SQLite, - **MongoDB Atlas (NoSQL), MySQL, SQLite**  
 - **Database Optimization, Query Performance Tuning**  
 
 ### 🛠 Tools & Platforms  
@@ -93,4 +93,3 @@ Developed a **full-stack Flask-MySQL e-commerce system** with multilingual suppo
 
 💡 **Passionate about backend development & web security | Always learning & improving!**  
 ☕ **Certified Barista | Taekwondo Enthusiast** 🥋  
-Would you like me to **refine any project descriptions** or **help find open-source projects to contribute to?** 🚀😊
