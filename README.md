@@ -77,6 +77,9 @@ Built a **smart city simulation system** using IoT concepts and **Python-based a
 ### 💡 Other Skills  
 - **Team Collaboration, Problem-Solving, Full-Stack Development**  
 
+### 📊 Top Languages:
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact)  
 ---
 
 ## 🎯 Certifications & Achievements  
@@ -90,13 +93,6 @@ Built a **smart city simulation system** using IoT concepts and **Python-based a
 ## 🎓 Extracurricular Activities  
 🎯 **Aston CS Society (2024 - Present)** – Hackathons & peer coding sessions  
 🏫 **Student Representative (2023-24)** – Advocated student interests, contributed to campus initiatives  
-
----
-
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quanthenewbiecoder&show_icons=true&theme=radical)  
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact)  
 
 ---
 
