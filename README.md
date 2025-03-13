@@ -68,7 +68,7 @@ Built a **smart city simulation system** using IoT concepts and **Python-based a
 - **Object-Oriented Programming (OOP), Web Security, Agile (SCRUM)**  
 
 ### 🔹 Databases  
-- **MySQL, SQLite, - **MongoDB Atlas (NoSQL), MySQL, SQLite**  
+- **MongoDB Atlas (NoSQL), MySQL, SQLite**  
 - **Database Optimization, Query Performance Tuning**  
 
 ### 🛠 Tools & Platforms  
