@@ -26,6 +26,19 @@ Developed a **full-stack Flask-MySQL e-commerce system** with multilingual suppo
 🔹 Led a **9-member Agile team** to improve database performance by **30%**  
 🔹 Integrated **third-party payment APIs** for seamless transactions  
 
+### 🔹 [AI-Powered Voice Assistant](https://github.com/Quanthenewbiecoder/AI-Powered-Voice-Assistant)  
+Developed a **Python-based AI assistant** capable of **voice commands, web search, and automation**.  
+🔹 **Tech Stack:** Python, SpeechRecognition, OpenAI API, Pyttsx3  
+🔹 Integrated **real-time speech processing** with **natural language understanding (NLU)**  
+🔹 Supports **task automation**, including sending emails and playing music  
+
+### 🔹 [Smart City Project](https://github.com/Quanthenewbiecoder/smart_city-project)  
+Built a **smart city simulation system** using IoT concepts and **Python-based automation**.  
+🔹 **Tech Stack:** Python, Flask, IoT, Machine Learning (Basic)  
+🔹 Developed **smart traffic light control and energy-efficient systems**  
+🔹 Designed a **real-time dashboard for monitoring urban resources**  
+
+
 ---
 
 ## 💼 Work Experience  
