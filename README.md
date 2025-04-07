@@ -20,7 +20,7 @@ A **Flask-based financial dashboard** enabling real-time **expense tracking** an
 🔹 **Implemented hashed passwords** for enhanced security  
 🔹 **Live Demo:** [personal-finance-manager-lac.vercel.app](https://personal-finance-manager-lac.vercel.app)  
 
-### 🔹 Jewellery E-Commerce Platform (Academic Team Project)  
+### 🔹 [Jewellery E-Commerce Platform (Academic Team Project)](https://github.com/Quanthenewbiecoder/Team-website-project)
 Developed a **full-stack Flask-MySQL e-commerce system** with multilingual support.  
 🔹 **Tech Stack:** Flask, MongoDB, Flask-Babel, HTML, CSS, JavaScript  
 🔹 Led a **9-member Agile team** to improve database performance by **30%**  
