@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Quan Duong!  
 
 🎓 **2nd Year Computer Science @ Aston University (First-Year GPA: 3.62/4)**  
-💻 **Full-Stack Developer | Python | Flask | SQL | JavaScript**  
+💻 **Backend-Focused SWE | Python, Flask, SQL, MongoDB**  
 🔍 **Seeking 2025 Summer Internship in Software Engineering**  
 📍 **Birmingham, UK**  
 
