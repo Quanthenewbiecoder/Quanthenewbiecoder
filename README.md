@@ -126,9 +126,7 @@ Simulated a smart urban system using **IoT and Flask-based automation**.
 
 ## 📊 GitHub Stats
 
-![Quan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quanthenewbiecoder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Quanthenewbiecoder&theme=radical)
 
 ---
 
