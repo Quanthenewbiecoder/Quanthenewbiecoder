@@ -1,106 +1,128 @@
-# 👋 Hi there, I'm Quan Duong!  
+# 👋 Hi there, I'm Quan Duong!
 
-🎓 **2nd Year Computer Science @ Aston University (First-Year GPA: 3.62/4)**  
+🎓 **2nd Year Computer Science @ Aston University** (GPA: 3.62/4)  
 💻 **Backend-Focused SWE | Python, Flask, SQL, MongoDB**  
 🔍 **Seeking 2025 Summer Internship in Software Engineering**  
 📍 **Birmingham, UK**  
+💡 _Turning backend logic into seamless user experiences._  
 
-I’m a passionate **software engineer** who enjoys building **scalable web applications** and optimizing **databases**.  
+I'm a passionate **software engineer** who enjoys building **scalable web applications** and optimizing **databases**.  
 With hands-on experience in **Flask, SQL, and JavaScript**, I specialize in **backend development, REST APIs, and web security**.  
-I thrive in **agile teams** and love solving **real-world problems through technology**.
+I thrive in **agile teams**, and love solving **real-world problems through code**.
+
+🧠 **Key Modules:** Data Structures & Algorithms, AI, Info Security, Software Engineering
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
 ### 🔹 [**Personal Finance Manager**](https://github.com/Quanthenewbiecoder/Personal-finance-manager)  
-A **Flask-based financial dashboard** enabling real-time **expense tracking** and budget automation.  
+A **Flask-based dashboard** for real-time **expense tracking** and financial automation.  
 🔹 **Tech Stack:** Flask, SQLite, JavaScript, HTML, CSS  
-🔹 **Optimized SQL queries**, improving transaction speed by **40%**  
-🔹 **Implemented hashed passwords** for enhanced security  
-🔹 **Live Demo:** [personal-finance-manager-lac.vercel.app](https://personal-finance-manager-lac.vercel.app)  
+🔹 Cut budgeting time by **30%** through automated summaries & insights  
+🔹 **Secure authentication** with hashed passwords and session control  
+🔹 **Live Demo:** [personal-finance-manager-lac.vercel.app](https://personal-finance-manager-lac.vercel.app)
 
-### 🔹 [Jewellery E-Commerce Platform (Academic Team Project)](https://github.com/Quanthenewbiecoder/Team-website-project)
-Developed a **full-stack Flask-MySQL e-commerce system** with multilingual support.  
-🔹 **Tech Stack:** Flask, MongoDB, Flask-Babel, HTML, CSS, JavaScript  
-🔹 Led a **9-member Agile team** to improve database performance by **30%**  
-🔹 Integrated **third-party payment APIs** for seamless transactions  
+---
+
+### 🔹 [Jewellery E-Commerce Platform (Academic Team Project)](https://github.com/Quanthenewbiecoder/Team-website-project)  
+Built a **full-stack jewellery marketplace** with multilingual support & secure payments.  
+🔹 **Tech Stack:** Flask, MongoDB Atlas, Flask-Babel, HTML, CSS, JavaScript  
+🔹 Led a **9-member Agile team**, improving database performance by **30%**  
+🔹 Implemented **AES-256 encryption** and **Gmail API** for secure password recovery  
+🔹 Built RESTful APIs and role-based access control (RBAC)
+
+---
 
 ### 🔹 [AI-Powered Voice Assistant](https://github.com/Quanthenewbiecoder/AI-Powered-Voice-Assistant)  
-Developed a **Python-based AI assistant** capable of **voice commands, web search, and automation**.  
+Python-based assistant that supports **voice commands, web automation, and task execution**.  
 🔹 **Tech Stack:** Python, SpeechRecognition, OpenAI API, Pyttsx3  
-🔹 Integrated **real-time speech processing** with **natural language understanding (NLU)**  
-🔹 Supports **task automation**, including sending emails and playing music  
+🔹 Real-time speech processing + natural language understanding (NLU)  
+🔹 Automates tasks like **emailing, playing music, and searching the web**
+
+---
 
 ### 🔹 [Smart City Project](https://github.com/Quanthenewbiecoder/smart_city-project)  
-Built a **smart city simulation system** using IoT concepts and **Python-based automation**.  
-🔹 **Tech Stack:** Python, Flask, IoT, Machine Learning (Basic)  
-🔹 Developed **smart traffic light control and energy-efficient systems**  
-🔹 Designed a **real-time dashboard for monitoring urban resources**  
-
+Simulated a smart urban system using **IoT and Flask-based automation**.  
+🔹 **Tech Stack:** Python, Flask, IoT Concepts, Machine Learning (basic)  
+🔹 Designed **smart traffic lights** and **energy-efficient resource systems**  
+🔹 Built a **real-time monitoring dashboard** for city simulation
 
 ---
 
-## 💼 Work Experience  
+## 💼 Work Experience
 
-### **Full Stack Developer (Remote) - Duong Linh Holdings (Myanmar)**
-📅 **Sep 2024 – Present**  
-🔹 Developed a **Flask-MySQL web app**, improving data accuracy by **25%**  
-🔹 Automated email workflows, saving **10+ hours/week**  
-🔹 Optimized database performance, reducing query execution time by **20%**  
-💼 **Contract role ending May 2025**  
+### **Full Stack Developer** (Remote) – *Duong Linh Holdings (Myanmar)*  
+📅 **Sep 2024 – May 2025**  
+📍 Yangon (Remote)  
+> _Contracted to design backend systems for warehouse optimization._
 
-### **Software Engineering Intern - FDS Soft (Vietnam)**
+- Developed a **Flask-MySQL dashboard**, improving reporting accuracy by **25%**
+- Automated email workflows, saving **10+ hours/week**
+- Reduced backend query time by **30%** through optimization
+- Used **Git, Trello** for agile collaboration with remote teams
+
+---
+
+### **Software Engineering Intern** – *FDS Soft (Vietnam)*  
 📅 **Aug 2023 – Sep 2023**  
-🔹 Worked in an **Agile environment**, enhancing task efficiency by **15%**  
-🔹 Hands-on experience in **Java, AI fundamentals, and software testing**  
+> _Collaborated in an Agile team to improve system efficiency and product delivery._
+
+- Worked on **Java modules**, boosting system efficiency by **20%**
+- Supported sprint planning & testing for timely delivery
+- Co-led **bug tracking** and internal team coordination
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠 Technical Skills
 
-### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  ![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=mysql)  ![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)  ![C++](https://img.shields.io/badge/C++-orange?style=flat&logo=cplusplus)  
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
+![SQL](https://img.shields.io/badge/SQL-green?style=flat&logo=mysql)  
+![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)  
+![C++](https://img.shields.io/badge/C++-orange?style=flat&logo=cplusplus)
 
-### 🔹 Backend & Web Development  
-- **Flask, SQLAlchemy, Flask-Mail, Flask-Babel**  
-- **REST APIs, CI/CD Pipelines**  
-- **Object-Oriented Programming (OOP), Web Security, Agile (SCRUM)**  
+### 🔹 Frameworks & Backend  
+- Flask, SQLAlchemy, Flask-Mail, Flask-Babel  
+- REST APIs, CI/CD Pipelines  
+- Object-Oriented Programming (OOP), Web Security, RBAC  
 
 ### 🔹 Databases  
-- **MongoDB Atlas (NoSQL), MySQL, SQLite**  
-- **Database Optimization, Query Performance Tuning**  
+- MongoDB Atlas, MySQL, SQLite  
+- Query Optimization, Schema Design, Indexing  
 
-### 🛠 Tools & Platforms  
-- **Git, GitHub, VS Code, Eclipse, Linux**  
-
-### 💡 Other Skills  
-- **Team Collaboration, Problem-Solving, Full-Stack Development**  
-
-### 📊 Top Languages:
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact)  
-
+### 🔹 Tools  
+- Git, GitHub, VS Code, Linux, Eclipse  
+- Agile (SCRUM), GitHub Projects, Trello  
 
 ---
 
-## 🎯 Certifications & Achievements  
-🏅 **CS50 Certification (2024)** ([View Certificate](https://courses.edx.org/certificates/faf76bfe74a349ab994c2689da52658d))  
+## 📜 Certifications & Achievements
+
+🏅 **CS50: Introduction to Computer Science (Harvard, 2024)**  
+🏆 **Bronze Medal – UK Mathematics Challenge (2022)**  
 🎓 **Oncampus Aston Progression Scholarship (2024)**  
-🏆 **Aston University 30% Scholarship Recipient**  
-🏅 **Bronze Medal - UK Mathematics Challenge (2022)**  
+🎓 **100% Ackworth School Scholarship (2020)**  
 
 ---
 
-## 🎓 Extracurricular Activities  
-🎯 **Aston CS Society (2024 - Present)** – Hackathons & peer coding sessions  
-🏫 **Student Representative (2023-24)** – Advocated student interests, contributed to campus initiatives  
+## 🧑‍💻 Extracurricular Activities  
+
+- 💬 **Aston CS Society** (2024 – Present) – Hackathons & peer coding  
+- 🧑‍🎓 **Student Representative Union** (2023 – 2024) – Student advocacy & campus improvements  
+- 🥋 **Taekwondo Teaching Assistant** (2018 – 2021) – Taught discipline & teamwork to younger students  
 
 ---
 
 ## 📫 Let's Connect!  
-🔗 **[LinkedIn](https://linkedin.com/in/duong-anh-quan-bb4b3b1a4)**  
-📩 **[Email](mailto:quan.duong4work@gmail.com)**  
 
-💡 **Passionate about backend development & web security | Always learning & improving!**  
-☕ **Certified Barista | Taekwondo Enthusiast** 🥋  
+🔗 [LinkedIn](https://linkedin.com/in/duong-anh-quan-bb4b3b1a4)  
+📩 [Email](mailto:quan.duong4work@gmail.com)  
+🌐 [GitHub](https://github.com/Quanthenewbiecoder)  
+
+---
+
+💡 Passionate about **backend development & web security** | Always learning & improving  
+☕ Certified Barista | 🥋 Taekwondo Enthusiast — _“Precision in code, like precision in latte art.”_
