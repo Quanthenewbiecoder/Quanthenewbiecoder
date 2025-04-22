@@ -99,6 +99,12 @@ Simulated a smart urban system using **IoT and Flask-based automation**.
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact&theme=radical)
+
+---
+
 ## 📜 Certifications & Achievements
 
 🏅 **CS50: Introduction to Computer Science (Harvard, 2024)**  
@@ -121,12 +127,6 @@ Simulated a smart urban system using **IoT and Flask-based automation**.
 🔗 [LinkedIn](https://linkedin.com/in/duong-anh-quan-bb4b3b1a4)  
 📩 [Email](mailto:quan.duong4work@gmail.com)  
 🌐 [GitHub](https://github.com/Quanthenewbiecoder)  
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact&theme=radical)
 
 ---
 
