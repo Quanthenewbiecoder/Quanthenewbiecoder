@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Quanthenewbiecoder/Quanthenewbiecoder/main/github-banner.png" width="50%" />
-
 # 👋 Hi there, I'm Quan Duong!
 
 🎓 **2nd Year Computer Science @ Aston University** (GPA: 3.62/4)  
@@ -123,6 +121,14 @@ Simulated a smart urban system using **IoT and Flask-based automation**.
 🔗 [LinkedIn](https://linkedin.com/in/duong-anh-quan-bb4b3b1a4)  
 📩 [Email](mailto:quan.duong4work@gmail.com)  
 🌐 [GitHub](https://github.com/Quanthenewbiecoder)  
+
+---
+
+## 📊 GitHub Stats
+
+![Quan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quanthenewbiecoder&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanthenewbiecoder&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Quanthenewbiecoder&theme=radical)
 
 ---
 
