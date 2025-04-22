@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Quanthenewbiecoder/Quanthenewbiecoder/main/github-banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Quanthenewbiecoder/Quanthenewbiecoder/main/github-banner.png" width="50%" />
 
 # 👋 Hi there, I'm Quan Duong!
 
