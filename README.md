@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Quanthenewbiecoder/Quanthenewbiecoder/main/github-banner.png" width="100%" />
+
 # 👋 Hi there, I'm Quan Duong!
 
 🎓 **2nd Year Computer Science @ Aston University** (GPA: 3.62/4)  
